@@ -1,0 +1,24 @@
+[
+    {
+      "name": "Tech Conference 2025",
+      "date": "June 15, 2025",
+      "time": "10:00 AM",
+      "location": "San Francisco, CA",
+      "description": "Join industry leaders to explore the future of technology."
+    },
+    {
+      "name": "Food Truck Festival",
+      "date": "June 18, 2025",
+      "time": "12:00 PM",
+      "location": "Austin, TX",
+      "description": "A celebration of local food trucks and street eats!"
+    },
+    {
+      "name": "Indie Music Night",
+      "date": "June 20, 2025",
+      "time": "7:00 PM",
+      "location": "Brooklyn, NY",
+      "description": "Enjoy performances from up-and-coming indie artists."
+    }
+  ]
+  
