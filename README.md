@@ -1,12 +1,21 @@
-# React + Vite
+Featured Events - React App
+#  Description
+A responsive single-page React application to showcase local events, built as part of a Web Development Internship Task.
+##  Technologies Used
+- React
+- Tailwind CSS
+- JavaScript
+- JSON (for dummy event data)
+## Features
+- Navbar with links (Home, Events, Contact)
+- Hero section with main heading
+- Featured Events section with cards
+- Register buttons (non-functional)
+- Responsive design
+- Search bar to filter events by name
+- Smooth scroll navigation
+## How to Run Locally
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+cd featured-events-react
+npm install
+npm run dev
