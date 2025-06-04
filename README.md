@@ -15,7 +15,7 @@ A responsive single-page React application to showcase local events, built as pa
 - Search bar to filter events by name
 - Smooth scroll navigation
 ## How to Run Locally
-
+git clone https://github.com/rizwankhan0002/featured-events-react
 cd featured-events-react
 npm install
 npm run dev
